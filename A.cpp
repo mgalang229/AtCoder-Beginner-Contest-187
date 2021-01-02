@@ -19,6 +19,6 @@ int main() {
 	
 	int a, b;
 	cin >> a >> b;
-  //find the sum of the digits and print the larger sum
+  	//find the sum of the digits and print the larger sum
 	cout << max(s(a), s(b)) << "\n";
 }
